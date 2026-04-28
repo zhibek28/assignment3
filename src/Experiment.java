@@ -26,7 +26,7 @@ public class Experiment {
             System.out.println("Merge Sort Time  : " + (t4 - t3) + " ns");
 
             //BinarySearch
-            int targetValue = mergeData[size / 2]; // Get an existing value
+            int targetValue = mergeData[size / 2];
             long t5 = System.nanoTime();
             int result = searcher.binarySearch(mergeData, targetValue);
             long t6 = System.nanoTime();
