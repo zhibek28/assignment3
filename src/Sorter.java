@@ -19,7 +19,7 @@ public class Sorter {
         }
     }
 
-    // MergeSort
+    // Merge Sort
     public void mergeSort(int[] data, int start, int end) {
         if (start < end) {
             int middle = start + (end - start) / 2;
