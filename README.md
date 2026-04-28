@@ -11,7 +11,7 @@ This assignment involves the implementation and examination of sorting and searc
 
 1. **Bubble Sort:** Comparative algorithm that repeatedly compares elements, and swaps them if they are in the wrong order.
 Complexity: $O(n^2)$
-2. **Merge Sort:** Divide-and-conquer algorithm that divides the array into halves, recursively sorts them, and then merges the sorted halves.
+2. **Merge Sort:** Divide-and-conquer algorithm that divides the array into parts, recursively sorts them, and then merges the sorted parts.
    Complexity: $O(n \log n)$
 3. **Binary Search:** Search algorithm that searches for the element by repeatedly dividing.
    Complexity: $O(\log n)$
