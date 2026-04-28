@@ -26,7 +26,7 @@ Complexity: $O(n^2)$
 | 1000 | Random | 10605500ns  | 596041ns   | 1041ns        |
 
 ## 4.Screenshot
-![Output](./docs/output.png)
+![Output](docs/screenshot.png)
 
 
 
