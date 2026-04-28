@@ -3,7 +3,6 @@ public class Experiment {
     private Searcher searcher = new Searcher();
 
     public void runAllExperiments() {
-        // Testing sizes: Small (10), Medium (100), Large (1000)
         int[] testSizes = {10, 100, 1000};
 
         for (int size : testSizes) {
