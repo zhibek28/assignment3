@@ -1,5 +1,5 @@
 public class Searcher {
-    //BinarySearch
+    //Binary Search
     public int binarySearch(int[] data, int target) {
         int low = 0;
         int high = data.length - 1;
